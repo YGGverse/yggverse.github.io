@@ -1,0 +1,219 @@
+# Release gemini-php 0.1.0
+
+Initial release dedicated to β-Doku project
+
+At this point, toolkit provides DokuWiki API for Gemini protocol
+
+## Example
+
+### Reader
+
+Read DokuWiki and convert to Gemini
+
+``` php
+$reader = new \Yggverse\Gemini\Dokuwiki\Reader(
+    // optional regex rule set array
+);
+```
+
+Get or change existing regex rule (or just skip by using build-in set)
+
+``` php
+echo $reader->setRule(
+    '/subject/ui',
+    'replacement'
+);
+```
+
+Convert DokuWiki text to Gemini markup
+
+As wiki has lot of inline links, to make converted document well-readable, this method does not replace links with new line => macros, but uses inline context: Name ( URL ).
+
+This model useful with Reader::getLinks method, that for example appends all those related links to the document footer.
+
+If you don't like this implementation, feel free to change it by Reader::setRule method!
+
+``` php
+echo $reader->toGemini(
+    file_get_contents(
+        '/host/data/pages/index.txt'
+    )
+);
+```
+
+Get document title
+
+``` php
+$gemini = $reader->toGemini(
+    file_get_contents(
+        '/host/data/pages/index.txt'
+    )
+);
+
+echo $reader->getH1(
+    $gemini
+);
+```
+
+Get document links
+
+``` php
+$gemini = $reader->toGemini(
+    file_get_contents(
+        '/host/data/pages/index.txt'
+    )
+);
+
+echo $reader->getLinks(
+    $gemini
+);
+```
+
+### Filesystem
+
+Provides methods for simple and secure interaction with DokuWiki file storage
+
+``` php
+$filesystem = new \Yggverse\Gemini\Dokuwiki\Filesystem(
+    '/host/data' // storage location
+);
+```
+
+Return simple array of all files in storage
+
+``` php
+var_dump (
+    $filesystem->getList(
+        'hello:world'
+    )
+);
+```
+
+Return all files under the storage folder in tree format
+
+``` php
+var_dump (
+    $filesystem->getTree(
+        'hello:world'
+    )
+);
+```
+
+Return pages under the given data directory
+
+``` php
+var_dump (
+    $filesystem->getPagePathsByPath(
+        // absolute path to target data directory (e.g. Filesystem::getDirectoryPathByUri)
+    )
+);
+```
+
+Return absolute path to stored page file
+
+``` php
+var_dump (
+    $filesystem->getPagePathByUri(
+        'hello:world'
+    )
+);
+```
+
+Return page URI in dokuwiki:format
+
+``` php
+var_dump (
+    $filesystem->getPageUriByPath(
+        '/full/path/to/page.txt'
+    )
+);
+```
+
+Return absolute path to stored media file
+
+``` php
+var_dump (
+    $filesystem->getMediaPathByUri(
+        'hello:world'
+    )
+);
+```
+
+Return file MIME if path match storage item
+
+``` php
+var_dump (
+    $filesystem->getMimeByPath(
+        '/full/path/to/page.txt'
+    )
+);
+```
+
+Return file content if path match storage item
+
+``` php
+var_dump (
+    $filesystem->getDataByPath(
+        '/full/path/to/page.txt'
+    )
+);
+```
+
+Check path exist and match storage item
+
+``` php
+var_dump (
+    $filesystem->isPath(
+        '/full/path/to/page.txt'
+    )
+);
+```
+
+### Helper
+
+Useful methods to minify controller codebase
+
+``` php
+$helper = new \Yggverse\Gemini\Dokuwiki\Helper(
+    new \Yggverse\Gemini\Dokuwiki\Filesystem(),
+    new \Yggverse\Gemini\Dokuwiki\Reader()
+);
+```
+
+Return simple array of children section links in Gemini format
+
+``` php
+var_dump (
+    $helper->getChildrenSectionLinksByUri(
+        'hello:world'
+    )
+);
+```
+
+Return simple array of children page links in Gemini format
+
+``` php
+var_dump (
+    $helper->getChildrenPageLinksByUri(
+        'hello:world'
+    )
+);
+```
+
+Return page link (that contain document name) in Gemini format
+
+``` php
+var_dump (
+    $helper->getPageLinkByPath(
+        $filesystem->getPagePathByUri(
+            'hello:world'
+        )
+    )
+);
+```
+
+## Links
+
+=> https://github.com/YGGverse/gemini-php/releases/tag/0.1.0 Download gemini-php 0.1.0
+=> https://github.com/YGGverse/gemini-php#dokuwiki API documentation
+=> bdoku-dokuwiki-satellite-for-gemini-protocol.gmi β-Doku is DokuWiki Satellite for Gemini Protocol

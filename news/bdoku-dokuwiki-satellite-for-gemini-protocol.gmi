@@ -1,0 +1,60 @@
+# β-Doku is DokuWiki Satellite for Gemini Protocol
+
+Allows to launch read-only DokuWiki proxy server
+
+It is based on titan-II server, gemini-php to parse DokuWiki data folder, cache-php to save compiled pages in memory and Manticore for full-text search.
+
+## Examples
+
+=> gemini://betahowto.duckdns.org Clearnet instance of Yggdrasil Wiki (http://[222:a8e4:50cd:55c:788e:b0a5:4e2f:a92c])
+=> gemini://[301:23b4:991a:634d::b]  Yggdrasil mirror
+=> gemini://betahowto.ygg Alfis DNS alias
+
+## Install
+
+```
+wget https://repo.manticoresearch.com/manticore-repo.noarch.deb
+dpkg -i manticore-repo.noarch.deb
+apt update
+apt install git composer memcached manticore manticore-extra php-fpm php-memcached php-mysql php-mbstring
+git clone https://github.com/YGGverse/bdoku.git
+cd bdoku
+composer update
+```
+
+## Setup
+
+```
+cd bdoku
+mkdir host/127.0.0.1
+cp example/config.json host/127.0.0.1/config.json
+cd host/127.0.0.1
+openssl req -x509 -newkey rsa:4096 -keyout key.rsa -out cert.pem -days 365 -nodes -subj "/CN=127.0.0.1"
+```
+
+## Launch
+
+Before launch the server, copy or create alias of path/to/dokuwiki/data folder to bdoku/host/127.0.0.1 on example above.
+
+On every start, previous memory cache will be cleaned and new search index created.
+After data folder update, you need just to restart your server with systemd or another process manager.
+
+When launching with systemd, just make sure that manticore server already running:
+
+```
+[Unit]
+Wants=manticore.service
+After=manticore.service
+...
+```
+
+Then
+```
+php src/server.php 127.0.0.1
+```
+
+Open gemini://127.0.0.1 in your favorite Gemini browser!
+
+## Links
+
+=> https://github.com/YGGverse/bdoku β-Doku on GitHub
