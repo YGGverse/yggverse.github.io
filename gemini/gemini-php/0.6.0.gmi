@@ -1,4 +1,4 @@
-# Release gemini-php 0.6.0
+# gemini-php 0.6.0
 
 Add stream context options support
 

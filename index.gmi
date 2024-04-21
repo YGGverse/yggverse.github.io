@@ -2,9 +2,20 @@
 
 Open Source Solutions for Yggdrasil Ecosystem
 
+## Projects
+
+### Gemini
+
+=> gemini/bdoku/index.gmi β-Doku is DokuWiki Satellite for Gemini Protocol
+=> gemini/gemini-php/index.gmi PHP 8 / Composer Library for Gemini Protocol
+=> gemini/yo/index.gmi Yo! Micro Web Crawler in PHP & Manticore
+
+### Nex
+
+=> nex/nex-php/index.gmi PHP 8 / Composer Library for Nex Protocol
+
 ## Resources
 
-=> news/ News
 => https://github.com/yggverse GitHub
 => https://mastodon.social/@yggverse Mastodon
 => https://yggdrasil-network.github.io About Yggdrasil

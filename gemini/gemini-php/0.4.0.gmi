@@ -1,4 +1,4 @@
-# Release gemini-php 0.4.0
+# gemini-php 0.4.0
 
 Includes Body::findLinks method to grab clickable links from Gemtext
 

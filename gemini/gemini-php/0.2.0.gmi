@@ -1,4 +1,4 @@
-# Release gemini-php 0.2.0
+# gemini-php 0.2.0
 
 Completed Request / Response Client
 

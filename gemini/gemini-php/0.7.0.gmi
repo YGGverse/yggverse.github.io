@@ -1,4 +1,4 @@
-# Release gemini-php 0.7.0
+# gemini-php 0.7.0
 
 Client::Request method now supports resolved host as optional argument!
 

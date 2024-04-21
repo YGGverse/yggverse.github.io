@@ -1,0 +1,16 @@
+# gemini-php
+
+PHP 8 / Composer Library for Gemini Protocol
+
+=> https://github.com/YGGverse/gemini-php GitHub
+
+## Releases
+
+=> 0.7.0.gmi 2024-04-07 0.7.0
+=> 0.6.0.gmi 2024-04-06 0.6.0
+=> 0.5.0.gmi 2024-04-05 0.5.0
+=> 0.4.1.gmi 2024-04-05 0.4.1
+=> 0.4.0.gmi 2024-04-03 0.4.0
+=> 0.3.0.gmi 2024-04-03 0.3.0
+=> 0.2.0.gmi 2024-04-02 0.2.0
+=> 0.1.0.gmi 2024-04-02 0.1.0

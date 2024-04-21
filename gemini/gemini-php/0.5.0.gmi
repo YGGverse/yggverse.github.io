@@ -1,4 +1,4 @@
-# Release gemini-php 0.5.0
+# gemini-php 0.5.0
 
 Implemented Body::skipTags filter
 

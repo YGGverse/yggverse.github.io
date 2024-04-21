@@ -1,4 +1,4 @@
-# Release gemini-php 0.3.0
+# gemini-php 0.3.0
 
 Version 0.3.0 is here!
 
