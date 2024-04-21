@@ -18,4 +18,4 @@ Open Source Solutions for Yggdrasil Ecosystem
 
 => https://github.com/yggverse GitHub
 => https://mastodon.social/@yggverse Mastodon
-=> https://yggdrasil-network.github.io About Yggdrasil
+=> https://yggdrasil-network.github.io Yggdrasil
