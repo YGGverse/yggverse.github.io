@@ -1,10 +1,10 @@
 # Yo! search for Gemini Protocol
 
-Just created Yo! branch oriented for Gemini space
+Branch oriented to Gemini space
 
 => https://github.com/YGGverse/Yo/tree/gemini
 
-At this moment under development, we hope to launch online crawler soon.
+At this moment under development.
 
 Yo! is the super thin client-server crawler based on Manticore full-text search server.
 
@@ -14,6 +14,6 @@ Probably, Gemini interface will be implemented using Titan-II server fork with b
 
 => https://github.com/YGGverse/titan-II
 
-Also, working on gemini-php library as the dependency:
+Also, working on gemini-php library as native dependency
 
 => https://github.com/YGGverse/gemini-php
