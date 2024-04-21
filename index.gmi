@@ -14,7 +14,7 @@ Open Source Solutions for Yggdrasil Ecosystem
 
 => nex/nex-php/index.gmi PHP 8 / Composer Library for Nex Protocol
 
-## Resources
+## Social
 
 => https://github.com/yggverse GitHub
 => https://mastodon.social/@yggverse Mastodon
