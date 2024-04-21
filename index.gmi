@@ -4,7 +4,7 @@ Open Source Solutions for Yggdrasil Ecosystem
 
 ## Resources
 
-=> news News
+=> news/ News
 => https://github.com/yggverse GitHub
 => https://mastodon.social/@yggverse Mastodon
 => https://yggdrasil-network.github.io About Yggdrasil
