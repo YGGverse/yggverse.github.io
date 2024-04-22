@@ -1,0 +1,14 @@
+# gemini-php 0.9.0
+
+## New class
+
+=> https://github.com/YGGverse/gemini-php#pango Pango - Conversion features for GTK/Pango format
+
+## New methods
+
+=> https://github.com/YGGverse/gemini-php#bodygetquote Body::getQuote
+=> https://github.com/YGGverse/gemini-php#bodygetcode Body::getCode
+
+## Links
+
+=> https://github.com/YGGverse/gemini-php/releases/tag/0.9.0 Download gemini-php 0.9.0
