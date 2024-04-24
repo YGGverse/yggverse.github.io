@@ -15,9 +15,9 @@ Open Source Solutions for Yggdrasil Ecosystem
 => https://github.com/YGGverse/titan-II Titan-II fork with native IPv6 support
 => https://github.com/YGGverse/Yoda Yoda is PHP-GTK 3 Browser for Gemini Protocol
 
-### Nex
+### NEX
 
-=> nex/nex-php/index.gmi PHP 8 / Composer Library for Nex Protocol
+=> nex/nex-php/index.gmi PHP 8 / Composer Library for NEX Protocol
 => https://github.com/YGGverse/nexd Alternative nexd server build
 
 ### NPS

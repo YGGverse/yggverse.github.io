@@ -1,15 +1,15 @@
 # nex-php
 
-PHP 8 / Composer Library for Nex Protocol
+PHP 8 / Composer Library for NEX Protocol
 
-Nex Prorocol is optimal solution for Yggdrasil ecosystem,
+NEX Prorocol is optimal solution for Yggdrasil ecosystem,
 comparing to Gemini, does not require TLS certification and CN/SNI records.
 
 Yggdrasil traffic already encrypted and DNS usage is exception for 0200::/7 areas
 
 nex-php includes
 
-* Client - simple layer allows PHP application communicate with Nex server
+* Client - simple layer allows PHP application communicate with NEX server
 * Server - to launch instance for static files or interactive apps
 
 => https://github.com/YGGverse/nex-php GitHub
