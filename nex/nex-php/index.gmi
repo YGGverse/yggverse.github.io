@@ -13,3 +13,4 @@ nex-php includes
 * Server - to launch instance for static files or interactive apps
 
 => https://github.com/YGGverse/nex-php GitHub
+=> nex://nightfall.city/nex/ Specification
