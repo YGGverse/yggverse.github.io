@@ -1,0 +1,9 @@
+# nps-php
+
+PHP 8 / Composer Library for NPS Protocol
+
+Like Titan for Gemini, NPS is the satellite for Nex protocol
+it uses dot in line to signal the package ending.
+
+=> https://github.com/YGGverse/nps-php GitHub
+=> nex://nightfall.city/nps/ Specification

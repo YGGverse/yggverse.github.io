@@ -20,6 +20,10 @@ Open Source Solutions for Yggdrasil Ecosystem
 => nex/nex-php/index.gmi PHP 8 / Composer Library for Nex Protocol
 => https://github.com/YGGverse/nexd Alternative nexd server build
 
+### NPS
+
+=> nps/nps-php/index.gmi PHP 8 / Composer Library for NPS Protocol
+
 ## Social
 
 => https://github.com/yggverse GitHub
