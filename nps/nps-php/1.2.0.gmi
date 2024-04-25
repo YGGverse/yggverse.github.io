@@ -1,0 +1,34 @@
+# nps-php 1.2.0
+
+Implemented optional Server response returned by custom handler
+
+``` php
+$server->start(
+    function (
+          bool $success,
+        string $content,
+        string $request,
+        string $connect
+    ): ?string
+    {
+        printf(
+            'connection: %s request: %s',
+            $connect,
+            $request
+        );
+
+        if ($success)
+        {
+            var_dump(
+                $content
+            );
+        }
+
+        return 'thank you!'; // null|string response
+    }
+);
+```
+
+## Links
+
+=> https://github.com/YGGverse/nps-php/releases/tag/1.2.0 Download nps-php 1.2.0

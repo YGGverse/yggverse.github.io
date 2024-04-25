@@ -10,5 +10,6 @@ it listen for single dot in line to signal the package ending.
 
 ## Releases
 
+=> 1.2.0.gmi 2024-04-25 1.2.0
 => 1.1.0.gmi 2024-04-25 1.1.0
 => 1.0.0.gmi 2024-04-24 1.0.0
