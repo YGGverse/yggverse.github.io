@@ -2,12 +2,12 @@
 
 Server API changed with new features
 
-Now constructor accepts line and size arguments, where the class contain new setters:
+Constructor receive line and size arguments, where the class contain new setters:
 
 => https://github.com/YGGverse/nps-php#serversetline Server::setLine
 => https://github.com/YGGverse/nps-php#serversetsize Server::setSize
 
-Handler function returns success status as the new argument
+Handler function return success status as the new argument
 
 ## Example
 
