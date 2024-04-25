@@ -1,0 +1,33 @@
+# nps-php 1.0.0
+
+Initial stable release!
+
+Includes Server class to build interactive applications
+
+## Example
+
+``` php
+$server = new \Yggverse\Nps\Server;
+
+$server->start(
+    function (
+        string $content,
+        string $request,
+        string $connect
+    ) {
+        printf(
+            'connection: %s request: %s',
+            $connect,
+            $request
+        );
+
+        var_dump(
+            $content
+        );
+    }
+);
+```
+
+## Links
+
+=> https://github.com/YGGverse/nps-php/releases/tag/1.0.0 Download nps-php 1.0.0

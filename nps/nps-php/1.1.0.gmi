@@ -1,0 +1,42 @@
+# nps-php 1.1.0
+
+Server API changed with new features
+
+Now constructor accepts line and size arguments, where the class contain new setters:
+
+=> https://github.com/YGGverse/nps-php#serversetline Server::setLine
+=> https://github.com/YGGverse/nps-php#serversetsize Server::setSize
+
+Handler function returns success status as the new argument
+
+## Example
+
+``` php
+$server = new \Yggverse\Nps\Server;
+
+$server->start(
+    function (
+          bool $success,
+        string $content,
+        string $request,
+        string $connect
+    ) {
+        printf(
+            'connection: %s request: %s',
+            $connect,
+            $request
+        );
+
+        if ($success)
+        {
+            var_dump(
+                $content
+            );
+        }
+    }
+);
+```
+
+## Links
+
+=> https://github.com/YGGverse/nps-php/releases/tag/1.1.0 Download nps-php 1.1.0
