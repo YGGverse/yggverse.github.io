@@ -1,0 +1,25 @@
+# nex-php 1.1.0
+
+Implemented optional Server response returned by custom handler
+
+``` php
+$server->start(
+    function (
+        string $request,
+        string $connect
+    ): ?string
+    {
+        printf(
+            'connection: %s request: %s',
+            $connect,
+            $request
+        );
+
+        return null; // null|string response
+    }
+);
+```
+
+## Links
+
+=> https://github.com/YGGverse/nex-php/releases/tag/1.1.0 Download nex-php 1.1.0

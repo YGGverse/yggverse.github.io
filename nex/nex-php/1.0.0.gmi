@@ -1,0 +1,12 @@
+# nex-php 1.0.0
+
+Initial stable release!
+
+Includes:
+
+=> https://github.com/YGGverse/nex-php#client Client
+=> https://github.com/YGGverse/nex-php#server Server
+
+## Links
+
+=> https://github.com/YGGverse/nex-php/releases/tag/1.0.0 Download nex-php 1.0.0
