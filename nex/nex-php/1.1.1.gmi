@@ -1,0 +1,9 @@
+# nex-php 1.1.1
+
+Correction release includes socket bind validation
+
+=> https://github.com/YGGverse/nex-php/commit/55b4c879e4953386c4ed9cfc73c43c11510a4bac
+
+## Links
+
+=> https://github.com/YGGverse/nex-php/releases/tag/1.1.1 Download nex-php 1.1.1
