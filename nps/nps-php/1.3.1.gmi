@@ -1,0 +1,10 @@
+# nps-php 1.3.1
+
+Correction release, includes:
+
+=> https://github.com/YGGverse/nps-php/commit/003393b129806434bc6c7c593e483553a884e9f4 socket status validation
+=> https://github.com/YGGverse/nps-php/commit/baaf077887aa9e1e75c3a76ae4d3bbf615ea242e missed line separator
+
+## Links
+
+=> https://github.com/YGGverse/nps-php/releases/tag/1.3.1 Download nps-php 1.3.1
