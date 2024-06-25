@@ -1,0 +1,16 @@
+# gemini-php 0.10.1
+
+## Fixed
+
+* Binary body detection in Client\Response::__construct
+* Exception namespace in Client\Request::__construct
+
+## Added
+
+* Missed exception message in Client\Request::__construct
+* Gemtext deprecation notice, use new library gemtext-php instead!
+
+## Links
+
+=> https://github.com/YGGverse/gemini-php/releases/tag/0.10.1 Download gemini-php 0.10.1
+=> https://github.com/YGGverse/gemtext-php Object-oriented library for Gemtext operations
