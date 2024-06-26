@@ -1,0 +1,93 @@
+# gemini-dl
+
+CLI Batch Downloader for Gemini Protocol, inspired by wget and yt-dlp
+
+At this moment, project under development, some features already testing
+
+## Interface
+
+=> gemini-dl.png
+
+## Components
+
+=> https://github.com/YGGverse/gemini-php Client for Gemini protocol
+=> https://github.com/YGGverse/gemtext-php Parser for Gemtext
+=> https://github.com/YGGverse/net-php Network toolkit for URL operations
+=> https://github.com/mikeerickson/php-cli-colors CLI colors
+
+## Features
+
+* Grab single URL or --crawl entire capsule
+* Multiple MIME types download (e.g. inline images and other media)
+* Detailed crawler log for every request + totals
+* Flexible options
+* Custom --delay between requests
+* Custom --index filename for directories
+* Custom storage location: Filesystem, FTP
+* Optional links replacement for local navigation: relative (default), --absolute or --keep
+* --match regex URL
+* --unique snap version or sync with existing copy
+* Configurable redirect levels to --follow
+* Crawl depth --level limit
+* Document size limit to download
+* Follow --external links on crawl
+
+## Environment
+
+``` bash
+apt install git composer php-fpm php-mbstring
+```
+
+## Install
+
+``` bash
+git clone https://github.com/YGGverse/gemini-dl.git
+cd gemini-dl
+composer update
+
+# for direct execution only:
+chmod +x src/gemini-dl.php
+```
+
+## Usage
+
+``` bash
+src/gemini-dl.php --source gemini://.. --target /path/to/download
+```
+
+* alternatively, launch with specified php version: /path/to/php src/gemini-dl.php
+
+### Options
+
+``` bash
+# Required
+
+-s, --source   - string, gemini protocol address
+-t, --target   - string, absolute path to destination folder
+
+# Optional
+
+-a, --absolute - no value, links to absolute filepath (ignored on --keep), disabled by default
+-c, --crawl    - no value, crawl document links (entire capsule download), disabled by default
+-d, --delay    - integer, pause between requests to prevent abuse (seconds), 1 by default
+-i, --index    - string, index filename of directory listing, index.gmi by default
+-h, --help     - no value, show available commands
+-k, --keep     - no value, keep original links (--crawl mode only), disabled by default
+-m, --match    - string, collect links match regex rule, /.*/ by default
+-r, --raw      - no value, include meta headers (--keep option ignored), disabled by default
+-u, --unique   - no value, append snap version as folder timestamp, disabled by default
+
+# Experimental (in development)
+
+-e, --external - no value, follow external hosts, disabled by default
+-f, --follow   - integer, follow redirects on --crawl, 0 by default
+-l, --level    - integer, depth to --crawl, 0 by default
+```
+
+* show in CLI: gemini-dl.php --help
+
+## Download
+
+=> https://github.com/YGGverse/gemini-dl Source on GitHub
+=> https://github.com/YGGverse/gemini-dl/issues Feedback
+=> https://github.com/YGGverse/gemini-dl/pull Contributions
