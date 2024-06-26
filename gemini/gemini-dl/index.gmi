@@ -86,7 +86,7 @@ src/gemini-dl.php --source gemini://.. --target /path/to/download
 
 * show in CLI: gemini-dl.php --help
 
-## Links
+## Get
 
 => https://github.com/YGGverse/gemini-dl Source on GitHub
 => https://github.com/YGGverse/gemini-dl/issues Feedback
