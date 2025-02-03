@@ -15,7 +15,9 @@ Open Source Solutions for Yggdrasil Ecosystem
 => https://github.com/kvazar-network/geminiapp KevaCoin Explorer for Gemini Protocol
 => https://github.com/YGGverse/Pulsar Pulsar - RSS Aggregator for Gemini Protocol
 => https://github.com/YGGverse/titan-II Titan-II fork with native IPv6 support (archive)
-=> https://github.com/YGGverse/Yoda Yoda is PHP-GTK 3 Browser for Gemini Protocol
+=> https://github.com/YGGverse/Yoda Yoda - GTK 4 browser for Gemini Protocol written in Rust
+=> https://github.com/YGGverse/ggemini ggemini - Glib-oriented client for Gemini protocol (Rust)
+=> https://github.com/YGGverse/ggemtext ggemtext - Glib-oriented Gemtext API (Rust)
 
 ### NEX
 
