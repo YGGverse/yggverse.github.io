@@ -1,6 +1,6 @@
 # YGGverse - Official Gemlog
 
-Open Source Solutions for Yggdrasil Ecosystem
+Open Source Solutions for Alternative Networks
 
 ## Projects
 
