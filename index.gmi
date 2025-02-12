@@ -18,7 +18,7 @@ Open Source Solutions for Alternative Networks
 => https://github.com/YGGverse/Yoda Yoda - GTK 4 browser for Gemini Protocol written in Rust
 => https://github.com/YGGverse/ggemini ggemini - Glib-oriented client for Gemini protocol (Rust)
 => https://github.com/YGGverse/ggemtext ggemtext - Glib-oriented Gemtext API (Rust)
-=> https://github.com/YGGverse/pulsarss pulsarss - Crawl & Convert RSS feeds into static Gemtext format (Rust)
+=> https://github.com/YGGverse/pulsarss pulsarss - Crawl & Convert RSS feeds into Gemtext static (Rust)
 
 ### NEX
 
