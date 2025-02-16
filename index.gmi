@@ -30,6 +30,10 @@ Open Source Solutions for Alternative Networks
 
 => nps/nps-php/index.gmi PHP 8 / Composer Library for NPS Protocol
 
+### VSCode
+
+=> https://github.com/YGGverse/vscode-webdav vscode-webdav extension fork (interact Yesterweb with WebDAV)
+
 ## Social
 
 => https://github.com/yggverse GitHub
