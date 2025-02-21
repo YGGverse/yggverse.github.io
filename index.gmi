@@ -19,6 +19,8 @@ Open Source Solutions for Alternative Networks
 => https://github.com/YGGverse/ggemini ggemini - Glib-oriented client for Gemini protocol (Rust)
 => https://github.com/YGGverse/ggemtext ggemtext - Glib-oriented Gemtext API (Rust)
 => https://github.com/YGGverse/pulsarss pulsarss - Crawl & Convert RSS feeds into static Gemtext (Rust)
+=> https://github.com/YGGverse/titanite titanite - Client/Server Library for Gemini protocol with Titan support (Rust)
+=> https://github.com/YGGverse/titanit titan it! - File sharing server for Gemini & Titan protocols (Rust)
 
 ### NEX
 
