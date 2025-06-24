@@ -6,16 +6,16 @@ Open Source Solutions for Alternative Networks
 
 ### Gemini
 
-=> gemini/bdoku/index.gmi β-Doku is DokuWiki Satellite for Gemini Protocol
-=> gemini/gemini-dl/index.gmi CLI Batch Downloader for Gemini Protocol
-=> gemini/gemini-php/index.gmi PHP 8 / Composer Library for Gemini Protocol
+=> gemini/bdoku/index.gmi β-Doku is DokuWiki Satellite for Gemini protocol
+=> gemini/gemini-dl/index.gmi CLI Batch Downloader for Gemini protocol
+=> gemini/gemini-php/index.gmi PHP 8 / Composer Library for Gemini protocol
 => gemini/gemtext-php/index.gmi PHP 8 / Composer Library for Gemtext Operations
 => gemini/yo/index.gmi Yo! Micro Web Crawler in PHP & Manticore
 => https://github.com/kevachat/geminiapp KevaChat - Chat in KevaCoin BlockChain
-=> https://github.com/kvazar-network/geminiapp KevaCoin Explorer for Gemini Protocol
-=> https://github.com/YGGverse/Pulsar Pulsar - RSS Aggregator for Gemini Protocol
+=> https://github.com/kvazar-network/geminiapp KevaCoin Explorer for Gemini protocol
+=> https://github.com/YGGverse/Pulsar Pulsar - RSS Aggregator for Gemini protocol
 => https://github.com/YGGverse/titan-II Titan-II fork with native IPv6 support (archive)
-=> https://github.com/YGGverse/Yoda Yoda - GTK 4 browser for Gemini Protocol written in Rust
+=> https://github.com/YGGverse/Yoda Yoda - GTK 4 browser for Gemini protocol written in Rust
 => https://github.com/YGGverse/ggemini ggemini - Glib-oriented client for Gemini protocol (Rust)
 => https://github.com/YGGverse/ggemtext ggemtext - Glib-oriented Gemtext API (Rust)
 => https://github.com/YGGverse/pulsarss pulsarss - Crawl & Convert RSS feeds into static Gemtext (Rust)
@@ -24,13 +24,14 @@ Open Source Solutions for Alternative Networks
 
 ### NEX
 
-=> nex/nex-php/index.gmi PHP 8 / Composer Library for NEX Protocol
-=> https://github.com/YGGverse/next Next - PHP 8 Server for Nex Protocol
+=> nex/nex-php/index.gmi PHP 8 / Composer Library for NEX protocol
+=> https://github.com/YGGverse/nexy nexy - Multi-network server for the Nex protocol, written in Rust
+=> https://github.com/YGGverse/next Next - PHP 8 Server for Nex protocol
 => https://github.com/YGGverse/nexd Alternative nexd server build
 
 ### NPS
 
-=> nps/nps-php/index.gmi PHP 8 / Composer Library for NPS Protocol
+=> nps/nps-php/index.gmi PHP 8 / Composer Library for NPS protocol
 
 ### VSCode
 
