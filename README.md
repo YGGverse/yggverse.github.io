@@ -36,6 +36,11 @@ Open Source Solutions for Alternative Networks
 * `nex://[302:68d0:f0d5:b88d::feed]`
 * `nex://[505:6847:c778:61a1::feed]`
 
+### [Alfis DNS](https://github.com/YGGverse/Alfis/tree/mycelium-network-mode)
+
+* `[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:4244`
+* `[505:6847:c778:61a1:5c6d:e802:d291:8191]:4244`
+
 ## Donate
 
 * BTC `bc1qngdf2kwty6djjqpk0ynkpq9wmlrmtm7e0c534y`
