@@ -8,32 +8,33 @@ Open Source Solutions for Alternative Networks
 
 ## Social
 
-* https://mastodon.social/@YGGverse
+* `https://mastodon.social/@YGGverse`
 
 ## Software
 
-* https://github.com/orgs/YGGverse/repositories
+* `https://github.com/orgs/YGGverse/repositories`
 
 ## Services
 
 ### Ukrainian Community Forums
 
 * `http://[302:68d0:f0d5:b88d::c]`
-    * http://ygg.ua.srv
+    * `http://ygg.ua.srv`
 * `http://[505:6847:c778:61a1::c]`
-    * http://myc.ua.srv
+    * `http://myc.ua.srv`
 
 ### [βtracker](https://github.com/YGGverse/btracker)
 
 * `http://[302:68d0:f0d5:b88d::fdb]`
 * `gemini://[302:68d0:f0d5:b88d::fdb]`
-    * http://tracker.ygg
-    * gemini://tracker.ygg
+    * `http://tracker.ygg`
+    * `gemini://tracker.ygg`
 * `http://[505:6847:c778:61a1::fdb]`
 
 ### [rssto](https://github.com/YGGverse/rssto)
 
 * `nex://[302:68d0:f0d5:b88d::feed]`
+* `nex://[505:6847:c778:61a1::feed]`
 
 ## Donate
 
