@@ -4,7 +4,7 @@ Open Source Solutions for Alternative Networks
 
 ## Blog
 
-* `gemini://yggverse.cities.yesterweb.org` (Gemini related subjects only)
+* `gemini://yggverse.cities.yesterweb.org` (Geminispace related subjects only)
 
 ## Social
 
