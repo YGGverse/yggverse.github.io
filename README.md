@@ -1,7 +1,39 @@
-# YGGverse in Different Protocols
+# YGGverse
 
-* `nex://[301:23b4:991a:634d::1900]/index.gmi` - Yggdrasil / Nex
-* `gemini://yggverse.cities.yesterweb.org` - Internet / Gemini
+Open Source Solutions for Alternative Networks
+
+## Blog
+
+* `gemini://yggverse.cities.yesterweb.org` (Gemini related subjects only)
+
+## Social
+
+* https://mastodon.social/@YGGverse
+
+## Software
+
+* https://github.com/orgs/YGGverse/repositories
+
+## Services
+
+### Ukrainian Community Forums
+
+* `http://[302:68d0:f0d5:b88d::c]`
+    * http://ygg.ua.srv
+* `http://[505:6847:c778:61a1::c]`
+    * http://myc.ua.srv
+
+### [βtracker](https://github.com/YGGverse/btracker)
+
+* `http://[302:68d0:f0d5:b88d::fdb]`
+* `gemini://[302:68d0:f0d5:b88d::fdb]`
+    * http://tracker.ygg
+    * gemini://tracker.ygg
+* `http://[505:6847:c778:61a1::fdb]`
+
+### [rssto](https://github.com/YGGverse/rssto)
+
+* `nex://[302:68d0:f0d5:b88d::feed]`
 
 ## Donate
 
