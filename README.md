@@ -40,3 +40,7 @@ Open Source Solutions for Alternative Networks
 
 * `nex://[302:68d0:f0d5:b88d::feed]`
 * `nex://[505:6847:c778:61a1::feed]`
+
+## Donate
+
+* Monero / XMR `42wLkN1oVHTTnsA3a61atX7Faiey3mUijhzXYM6ffnGNAa2PwMyM3xy3iDADXoJgRYgeehkshB7rGQbemFB8ci7BCwghZL4`
