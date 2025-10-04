@@ -2,13 +2,10 @@
 
 Open Source Solutions for Alternative Networks
 
-## Blog
-
-* `gemini://yggverse.cities.yesterweb.org` (Geminispace related subjects only)
-
 ## Social
 
 * `https://mastodon.social/@YGGverse`
+* `gemini://yggverse.cities.yesterweb.org` (Geminispace related subjects only)
 
 ## Software
 
