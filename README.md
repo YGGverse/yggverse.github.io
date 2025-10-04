@@ -19,6 +19,7 @@ Open Source Solutions for Alternative Networks
     * `http://ygg.ua.srv`
 * `http://[505:6847:c778:61a1::c]`
     * `http://myc.ua.srv`
+* `http://hc3fycfadz7fkapp62fqi6llioe46fvis6wuswfobl5ghc2u7snq.b32.i2p`
 
 ### [βtracker](https://github.com/YGGverse/btracker)
 
