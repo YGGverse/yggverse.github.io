@@ -48,6 +48,10 @@ Open-source solutions for alternative networks
 * `202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148` port `4242` TCP
 * `505:6847:c778:61a1:5c6d:e802:d291:8191` port `4242` TCP
 
+### RSSto
+
+* `gemini://ry6hezqckcbqgwrkyb6w3rzcyyrvkx3dqlskk7ry3egcg3lcadzq.b32.i2p`
+
 ## Donate
 
 * Monero / XMR `42wLkN1oVHTTnsA3a61atX7Faiey3mUijhzXYM6ffnGNAa2PwMyM3xy3iDADXoJgRYgeehkshB7rGQbemFB8ci7BCwghZL4`
