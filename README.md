@@ -1,6 +1,6 @@
 # YGGverse
 
-Open Source Solutions for Alternative Networks
+Open-source solutions for alternative networks
 
 ## Social
 
