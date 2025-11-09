@@ -22,14 +22,9 @@ Open-source solutions for alternative networks
 
 * `udp://[302:68d0:f0d5:b88d::fdb]:6969`
     * `udp://tracker.ygg:6969`
+    * `http://[302:68d0:f0d5:b88d::fdb]` | `http://tracker.ygg` (stats)
 * `udp://[505:6847:c778:61a1::fdb]:6969`
-
-#### βtracker
-
-* `http://[302:68d0:f0d5:b88d::fdb]`
-* `gemini://[302:68d0:f0d5:b88d::fdb]`
-    * `http://tracker.ygg`
-    * `gemini://tracker.ygg`
+    * `http://[505:6847:c778:61a1::fdb]` (stats)
 
 ### I2P reseed
 
