@@ -35,9 +35,9 @@ Open-source solutions for alternative networks
 
 * `ftp://[505:6847:c778:61a1:5c6d:e802:d291:8191]:21`
 * `ftp://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:21` | `ftp://duplo.ygg`
-    * gemini://duplo.cities.yesterweb.org
-    * gemini://duploll73zmvxevjbfd5x2qxjafqjmectmc7lok7qdgkxgkxk5ea.b32.i2p
-    * gemini://duplo.i2p
+    * `gemini://duplo.cities.yesterweb.org`
+    * `gemini://duploll73zmvxevjbfd5x2qxjafqjmectmc7lok7qdgkxgkxk5ea.b32.i2p`
+    * `gemini://duplo.i2p`
 
 ### I2P reseed
 
