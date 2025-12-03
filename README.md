@@ -20,11 +20,10 @@ Open-source solutions for alternative networks
 
 ### BitTorrent
 
-* `udp://[302:68d0:f0d5:b88d::fdb]:6969`
-    * `udp://tracker.ygg:6969`
-    * `http://[302:68d0:f0d5:b88d::fdb]` | `http://tracker.ygg` (stats)
-* `udp://[505:6847:c778:61a1::fdb]:6969`
-    * `http://[505:6847:c778:61a1::fdb]` (stats)
+* `udp://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:6969` | `udp://tracker.ygg:6969`
+    * `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:6969` | `http://tracker.ygg` (stats)
+* `udp://[505:6847:c778:61a1:5c6d:e802:d291:8191]:6969`
+    * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:6969` (stats)
 
 ### Community
 
@@ -33,11 +32,8 @@ Open-source solutions for alternative networks
 
 ### FTP
 
-* `ftp://[505:6847:c778:61a1:5c6d:e802:d291:8191]:21`
-* `ftp://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:21` | `ftp://duplo.ygg`
-    * `gemini://duplo.cities.yesterweb.org`
-    * `gemini://duploll73zmvxevjbfd5x2qxjafqjmectmc7lok7qdgkxgkxk5ea.b32.i2p`
-    * `gemini://duplo.i2p`
+* `ftp://[505:6847:c778:61a1:5c6d:e802:d291:8191]` | `ftp://myc.duplo.srv`
+* `ftp://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]` | `ftp://ygg.duplo.srv` | `ftp://duplo.ygg`
 
 ### I2P reseed
 
