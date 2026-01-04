@@ -35,14 +35,6 @@ Ukrainian Alternative Network Administrators
 * `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]` | `http://ygg.ua.srv`
 * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]` | `http://myc.ua.srv`
 
-#### Freedit
-
-Reddit-like forums without JavaScript or email requirements
-
-* `http://bxeenjq72gnv42uqcnexlrv52o5aden5kxvz22xiq25fzcvowzmq.b32.i2p` | `http://freedit.i2p`
-* `http://[201:9d6a:f4e2:32d9:b005:cee0:2e6:47cd]` | `http://freedit.ygg`
-* `http://[5ed:976:cee0:915d:9f2d:6b2d:2944:7cfc]`
-
 ### FTP
 
 * `ftp://[505:6847:c778:61a1:5c6d:e802:d291:8191]` | `ftp://myc.duplo.srv`
