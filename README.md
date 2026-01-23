@@ -13,6 +13,11 @@ Open-source solutions for alternative networks
 
 ## Services
 
+> [!NOTE]
+> Raspberry PI, where all the YGGverse services were hosted, has failed due to constant power outages in Ukraine. The services are currently unavailable.
+> 
+> *At the very least, the elusive virus that lived there was burned alongside the hardware.*
+
 ### Alfis DNS
 
 * `[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:4244`
