@@ -36,6 +36,7 @@ Open-source solutions for alternative networks
 
 Ukrainian Alternative Network Administrators
 
+* `http://w6vtcpbir5vvokwdqqbqlrdtnzwyfc4iyqn6owxuyjeppszuydutqwqd.onion`
 * `http://hc3fycfadz7fkapp62fqi6llioe46fvis6wuswfobl5ghc2u7snq.b32.i2p` | `http://uanet.i2p`
 * `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]` | `http://ygg.ua.srv`
 * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]` | `http://myc.ua.srv`
@@ -56,6 +57,15 @@ Ukrainian Alternative Network Administrators
 * `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:8000`
     * `http://pidpilne.ygg`
 * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8000`
+
+### IRC
+
+#### Bouncer
+
+Shared ZNC instance for Yggdrasil, Mycelium, I2P, or Tor channels
+
+* `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:6680`
+* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:6680`
 
 ### Reticulum
 
