@@ -88,7 +88,7 @@ Shared ZNC instance for Yggdrasil, Mycelium, I2P, or Tor channels
 ### I2P
 * `z6Mkvky2mnSYCTUMKRdAUoZXBXLLKtnWEkWeYQcGjjnmobAU@f2atcc7udeub5kh4nkljtjwyk7ikjviorufzgwnfwhkphljl3vhq.b32.i2p:8776`
     * `http://cfwfe2k6dropbymtddz225mbugzs5tfsmvng23zsebf6iw3cj2xa.b32.i2p:8788` - JSON/API
-    * `k7cfad745uretan7iihkwo6x24ut6mgbhq4ccxjqkzetgbtfknbq.b32.i2p` - Веб-експлорер
+    * `http://k7cfad745uretan7iihkwo6x24ut6mgbhq4ccxjqkzetgbtfknbq.b32.i2p` - Веб-експлорер
 
 ### Tor
 
