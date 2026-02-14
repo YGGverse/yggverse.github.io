@@ -85,6 +85,17 @@ Shared ZNC instance for Yggdrasil, Mycelium, I2P, or Tor channels
     * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8788` - JSON/API
     * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8780` - Web explorer
 
+### I2P
+* `z6Mkvky2mnSYCTUMKRdAUoZXBXLLKtnWEkWeYQcGjjnmobAU@f2atcc7udeub5kh4nkljtjwyk7ikjviorufzgwnfwhkphljl3vhq.b32.i2p:8776`
+    * `http://cfwfe2k6dropbymtddz225mbugzs5tfsmvng23zsebf6iw3cj2xa.b32.i2p:8788` - JSON/API
+    * `k7cfad745uretan7iihkwo6x24ut6mgbhq4ccxjqkzetgbtfknbq.b32.i2p` - Веб-експлорер
+
+### Tor
+
+* `z6Mkvky2mnSYCTUMKRdAUoZXBXLLKtnWEkWeYQcGjjnmobAU@tus2sol3kcykzh6dw4adgma3yzvzex7nsizlbdjmizgeines74chk7yd.onion:8776`
+    * `http://tus2sol3kcykzh6dw4adgma3yzvzex7nsizlbdjmizgeines74chk7yd.onion:8788` - JSON/API
+    * `http://tus2sol3kcykzh6dw4adgma3yzvzex7nsizlbdjmizgeines74chk7yd.onion` - Веб-експлорер
+
 ### Reticulum
 
 * `202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148` port `4242` TCP
