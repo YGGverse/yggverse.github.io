@@ -67,6 +67,14 @@ Shared ZNC instance for Yggdrasil, Mycelium, I2P, or Tor channels
 * `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:6680`
 * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:6680`
 
+### Games
+
+#### Half-Life
+
+HLState monitor for the Half-Life / Xash3D master servers
+
+* `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:27080` | http://hl.ygg
+
 ### Git
 
 #### [Radicle](https://radicle.xyz)
@@ -75,7 +83,7 @@ Shared ZNC instance for Yggdrasil, Mycelium, I2P, or Tor channels
 
 ##### Yggdrasil
 
-* `z6Mkvky2mnSYCTUMKRdAUoZXBXLLKtnWEkWeYQcGjjnmobAU@[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:8776`
+* `z6Mkvky2mnSYCTUMKRdAUoZXBXLLKtnWEkWeYQcGjjnmobAU@202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148:8776`
     * `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:8788` - JSON/API
     * `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:8780` - Web explorer
 
@@ -104,6 +112,15 @@ Shared ZNC instance for Yggdrasil, Mycelium, I2P, or Tor channels
 ### RSSto
 
 * `gemini://ry6hezqckcbqgwrkyb6w3rzcyyrvkx3dqlskk7ry3egcg3lcadzq.b32.i2p`
+
+### Rust
+
+#### [Kellnr](https://kellnr.io)
+
+The registry for Rust crates
+
+* `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:8180` | http://ygg.ua.srv:8180
+* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8180` | http://myc.ua.srv:8180
 
 ## Donate
 
