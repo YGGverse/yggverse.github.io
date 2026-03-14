@@ -60,6 +60,12 @@ Ukrainian Alternative Network Administrators
 
 ### IRC
 
+#### Server
+
+* `[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:6667` | `ygg.ua.srv:6667`
+* `[505:6847:c778:61a1:5c6d:e802:d291:8191]:6667` | `myc.ua.srv:6667`
+* `gcb4makty5xwegsu4x472tjqugjluybama2rp5ne2jd636p757sq.b32.i2p:6667`
+
 #### Bouncer
 
 Shared ZNC instance for Yggdrasil, Mycelium, I2P, or Tor channels
