@@ -15,7 +15,7 @@ Open-source solutions for alternative networks
 
 > [!NOTE]
 > Raspberry PI, where all the YGGverse services were hosted, has failed due to constant power outages in Ukraine. The services are currently unavailable.
-> 
+>
 > *At the very least, the elusive virus that lived there was burned alongside the hardware.*
 
 ### Alfis DNS
@@ -25,8 +25,8 @@ Open-source solutions for alternative networks
 
 ### BitTorrent
 
-* `udp://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:6969` | `udp://tracker.ygg:6969`
-    * `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:6969` | `http://tracker.ygg` (stats)
+* `udp://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:6969`
+    * `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:6969` (stats)
 * `udp://[505:6847:c778:61a1:5c6d:e802:d291:8191]:6969`
     * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:6969` (stats)
 
@@ -37,14 +37,14 @@ Open-source solutions for alternative networks
 Ukrainian Alternative Network Administrators
 
 * `http://w6vtcpbir5vvokwdqqbqlrdtnzwyfc4iyqn6owxuyjeppszuydutqwqd.onion`
-* `http://hc3fycfadz7fkapp62fqi6llioe46fvis6wuswfobl5ghc2u7snq.b32.i2p` | `http://uanet.i2p`
-* `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]` | `http://ygg.ua.srv`
-* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]` | `http://myc.ua.srv`
+* `http://hc3fycfadz7fkapp62fqi6llioe46fvis6wuswfobl5ghc2u7snq.b32.i2p`
+* `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]`
+* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]`
 
 ### FTP
 
-* `ftp://[505:6847:c778:61a1:5c6d:e802:d291:8191]` | `ftp://myc.duplo.srv`
-* `ftp://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]` | `ftp://ygg.duplo.srv` | `ftp://duplo.ygg`
+* `ftp://[505:6847:c778:61a1:5c6d:e802:d291:8191]`
+* `ftp://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]`
 
 ### I2P reseed
 
@@ -53,17 +53,15 @@ Ukrainian Alternative Network Administrators
 ### Icecast
 
 * `http://mrkssh4b2qkrf5hl4yxrwbtuowbmjugozaa7emaybnokw5jtcydq.b32.i2p`
-    * `http://pidpilne.i2p`
 * `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:8000`
-    * `http://pidpilne.ygg`
 * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8000`
 
 ### IRC
 
 #### Server
 
-* `[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:6667` | `ygg.ua.srv:6667`
-* `[505:6847:c778:61a1:5c6d:e802:d291:8191]:6667` | `myc.ua.srv:6667`
+* `[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:6667`
+* `[505:6847:c778:61a1:5c6d:e802:d291:8191]:6667`
 * `gcb4makty5xwegsu4x472tjqugjluybama2rp5ne2jd636p757sq.b32.i2p:6667`
 
 #### Bouncer
@@ -89,8 +87,8 @@ Masters
 
 HLState monitor for the Half-Life / Xash3D master servers
 
-* `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:27080` | http://hl.ygg
-* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:27080` | -
+* `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:27080`
+* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:27080`
 
 ### Git
 
@@ -113,13 +111,13 @@ HLState monitor for the Half-Life / Xash3D master servers
 ### I2P
 * `z6Mkvky2mnSYCTUMKRdAUoZXBXLLKtnWEkWeYQcGjjnmobAU@f2atcc7udeub5kh4nkljtjwyk7ikjviorufzgwnfwhkphljl3vhq.b32.i2p:8776`
     * `http://cfwfe2k6dropbymtddz225mbugzs5tfsmvng23zsebf6iw3cj2xa.b32.i2p:8788` - JSON/API
-    * `http://k7cfad745uretan7iihkwo6x24ut6mgbhq4ccxjqkzetgbtfknbq.b32.i2p` - Веб-експлорер
+    * `http://k7cfad745uretan7iihkwo6x24ut6mgbhq4ccxjqkzetgbtfknbq.b32.i2p` - Web explorer
 
 ### Tor
 
 * `z6Mkvky2mnSYCTUMKRdAUoZXBXLLKtnWEkWeYQcGjjnmobAU@tus2sol3kcykzh6dw4adgma3yzvzex7nsizlbdjmizgeines74chk7yd.onion:8776`
     * `http://tus2sol3kcykzh6dw4adgma3yzvzex7nsizlbdjmizgeines74chk7yd.onion:8788` - JSON/API
-    * `http://tus2sol3kcykzh6dw4adgma3yzvzex7nsizlbdjmizgeines74chk7yd.onion` - Веб-експлорер
+    * `http://tus2sol3kcykzh6dw4adgma3yzvzex7nsizlbdjmizgeines74chk7yd.onion` - Web explorer
 
 ### Reticulum
 
@@ -136,8 +134,8 @@ HLState monitor for the Half-Life / Xash3D master servers
 
 The registry for Rust crates
 
-* `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:8180` | http://ygg.ua.srv:8180
-* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8180` | http://myc.ua.srv:8180
+* `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:8180`
+* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8180`
 
 ## Donate
 
