@@ -18,7 +18,14 @@ Open-source solutions for alternative networks
 >
 > *At the very least, the elusive virus that lived there was burned alongside the hardware.*
 
-### Alfis DNS
+## DNS
+
+[Alfis DNS](https://github.com/Revertron/Alfis) + [Meshname](https://github.com/zhoreeq/meshname) only!
+
+* `[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:53`
+* `[505:6847:c778:61a1:5c6d:e802:d291:8191]:53`
+
+### Alfis
 
 * `[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:4244`
 * `[505:6847:c778:61a1:5c6d:e802:d291:8191]:4244`
