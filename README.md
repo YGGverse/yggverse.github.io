@@ -115,16 +115,22 @@ HLState monitor for the Half-Life / Xash3D master servers
     * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8788` - JSON/API
     * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:8780` - Web explorer
 
-### I2P
+#### I2P
 * `z6Mkvky2mnSYCTUMKRdAUoZXBXLLKtnWEkWeYQcGjjnmobAU@f2atcc7udeub5kh4nkljtjwyk7ikjviorufzgwnfwhkphljl3vhq.b32.i2p:8776`
     * `http://cfwfe2k6dropbymtddz225mbugzs5tfsmvng23zsebf6iw3cj2xa.b32.i2p:8788` - JSON/API
     * `http://k7cfad745uretan7iihkwo6x24ut6mgbhq4ccxjqkzetgbtfknbq.b32.i2p` - Web explorer
 
-### Tor
+#### Tor
 
 * `z6Mkvky2mnSYCTUMKRdAUoZXBXLLKtnWEkWeYQcGjjnmobAU@tus2sol3kcykzh6dw4adgma3yzvzex7nsizlbdjmizgeines74chk7yd.onion:8776`
     * `http://tus2sol3kcykzh6dw4adgma3yzvzex7nsizlbdjmizgeines74chk7yd.onion:8788` - JSON/API
     * `http://tus2sol3kcykzh6dw4adgma3yzvzex7nsizlbdjmizgeines74chk7yd.onion` - Web explorer
+
+### Nex (protocol)
+
+    * `nex://[505:6847:c778:61a1:5c6d:e802:d291:8191]`
+    * `nex://[505:6847:c778:61a1:5c6d:e802:d291:8191]`
+    * `nex://sl5ddrkufwd37xbbf4bj7542qljtnwe6pzd54epqg6zfytkj7q5a.b32.i2p/`
 
 ### Reticulum
 
