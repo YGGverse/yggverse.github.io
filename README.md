@@ -128,9 +128,9 @@ HLState monitor for the Half-Life / Xash3D master servers
 
 ### Nex (protocol)
 
-    * `nex://[505:6847:c778:61a1:5c6d:e802:d291:8191]`
-    * `nex://[505:6847:c778:61a1:5c6d:e802:d291:8191]`
-    * `nex://sl5ddrkufwd37xbbf4bj7542qljtnwe6pzd54epqg6zfytkj7q5a.b32.i2p/`
+* `nex://[505:6847:c778:61a1:5c6d:e802:d291:8191]`
+* `nex://[505:6847:c778:61a1:5c6d:e802:d291:8191]`
+* `nex://sl5ddrkufwd37xbbf4bj7542qljtnwe6pzd54epqg6zfytkj7q5a.b32.i2p/`
 
 ### Reticulum
 
