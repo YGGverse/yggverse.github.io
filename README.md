@@ -36,6 +36,8 @@ Open-source solutions for alternative networks
     * `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:6969` (stats)
 * `udp://[505:6847:c778:61a1:5c6d:e802:d291:8191]:6969`
     * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:6969` (stats)
+* `http://btrackrqkjp6kgelov5a3uxisis77ofxqt5nvy5hvvtoybjpmq4q.b32.i2p/announce`
+    * `http://btrackrqkjp6kgelov5a3uxisis77ofxqt5nvy5hvvtoybjpmq4q.b32.i2p` (landing)
 
 ### Community
 
