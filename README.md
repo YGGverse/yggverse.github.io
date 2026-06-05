@@ -25,13 +25,16 @@ Open-source solutions for alternative networks
 
 ### BitTorrent
 
-* `udp://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:6969`
-* `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:6969/announce`
+* `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:6969` - βtracker
+  * `udp://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:6969`
+  * `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:6969/announce`
 
-* `udp://[505:6847:c778:61a1:5c6d:e802:d291:8191]:6969`
-* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:6969/announce`
+* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:6969` - βtracker
+  * `udp://[505:6847:c778:61a1:5c6d:e802:d291:8191]:6969`
+  * `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:6969/announce`
 
-* `http://btrackrqkjp6kgelov5a3uxisis77ofxqt5nvy5hvvtoybjpmq4q.b32.i2p/announce`
+* `http://btrackrqkjp6kgelov5a3uxisis77ofxqt5nvy5hvvtoybjpmq4q.b32.i2p` - βtracker
+  * `http://btrackrqkjp6kgelov5a3uxisis77ofxqt5nvy5hvvtoybjpmq4q.b32.i2p/announce`
 
 ### Community
 
