@@ -131,6 +131,26 @@ HLState monitor for the Half-Life / Xash3D master servers
 * `nex://[505:6847:c778:61a1:5c6d:e802:d291:8191]`
 * `nex://sl5ddrkufwd37xbbf4bj7542qljtnwe6pzd54epqg6zfytkj7q5a.b32.i2p/`
 
+## nostr
+
+* `ws://[31b:6f20:c7f2:3ddf::3221]/` - Yggdrasil only nostr relay
+  * `ws://nostrajmjieip3dqgeefsgpydy3bbshe3o32z65dwkssl7qxkn5a.b32.i2p/` - bridge
+
+### Blossom
+
+Request write access by mention [@YGGverse](https://mastodon.social/@YGGverse) or PR to [whitelist](https://codeberg.org/YGGverse/server/src/branch/main/mnt/sdb1/blossom/whitelist.txt)
+
+* `http://[302:68d0:f0d5:b88d::bdb]/`
+* `http://[505:6847:c778:61a1::bdb]/`
+* `http://blossomnftsqugpvnstoowg4ci7oho6um5sg24aa6l43t45etz5a.b32.i2p/`
+
+## Iroh
+
+Public relays
+
+* `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:3340`
+* `[505:6847:c778:61a1:5c6d:e802:d291:8191]:3340`
+
 ### Reticulum
 
 * `202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148` port `4242` TCP
