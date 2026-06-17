@@ -1,0 +1,15 @@
+{
+  "names": {
+    "ps": "ae31558ae705c584c02f40bcd3be62b356f25394094ef238270eb2a3ba5b0e9f"
+  },
+  "relays": {
+    "ae31558ae705c584c02f40bcd3be62b356f25394094ef238270eb2a3ba5b0e9f": [
+      "wss://relay.primal.net",
+      "wss://relay.ditto.pub",
+      "wss://nos.lol",
+      "wss://nostr.twinkle.lol",
+      "ws://[31b:6f20:c7f2:3ddf::3221]",
+      "ws://nostrajmjieip3dqgeefsgpydy3bbshe3o32z65dwkssl7qxkn5a.b32.i2p"
+    ]
+  }
+}
