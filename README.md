@@ -136,6 +136,11 @@ HLState monitor for the Half-Life / Xash3D master servers
 * `ws://[31b:6f20:c7f2:3ddf::3221]/` - Yggdrasil only nostr relay
   * `ws://nostrajmjieip3dqgeefsgpydy3bbshe3o32z65dwkssl7qxkn5a.b32.i2p/` - bridge
 
+## nostube
+
+* `http://[302:68d0:f0d5:b88d::2be]`
+* `http://[505:6847:c778:61a1::2be]`
+
 ## Blossom
 
 Request write access by mention [@YGGverse](https://mastodon.social/@YGGverse) or PR to [whitelist](https://codeberg.org/YGGverse/server/src/branch/main/mnt/sdb1/blossom/whitelist.txt)
