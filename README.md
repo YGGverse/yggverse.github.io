@@ -84,17 +84,11 @@ Shared ZNC instance for Yggdrasil, Mycelium, I2P, or Tor channels
 Game servers
 
 * `[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:27015`
-* `[505:6847:c778:61a1:5c6d:e802:d291:8191]:27015`
 
-Masters
+#### TES3MP
 
-* `[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:27010`
-* `[505:6847:c778:61a1:5c6d:e802:d291:8191]:27010`
-
-HLState monitor for the Half-Life / Xash3D master servers
-
-* `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:27080`
-* `http://[505:6847:c778:61a1:5c6d:e802:d291:8191]:27080`
+* `[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:25565`
+  * `[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:25580` - Web-site
 
 ### Git
 
