@@ -7,9 +7,17 @@
       "wss://relay.primal.net",
       "wss://relay.ditto.pub",
       "wss://nos.lol",
+
       "wss://nostr.twinkle.lol",
-      "ws://[31b:6f20:c7f2:3ddf::3221]",
+
+      "wss://pyr.twinkle.lol",
       "ws://[316:a486:ec13:8e37:be24:11ff:fe8b:2481]",
+      "ws://[41e:42ca:c76c:d3e2:be24:11ff:fe41:2d5a]",
+      "ws://wnyzvmli7hja3rv3axvqop633brezk4wo2e4e6ly4irnlobk7uma.b32.i2p",
+      "ws://mpg52joak6aj3bcnd2hogsys5yk2yjfs5h3ph6nebzafv7bajrncvayd.onion",
+      "ws://npub1ef4pcdk38gwcpdvpzqy83vhamsqgaq2vzd2wuyel0wetvv7zmkasyfy0ye.fips",
+
+      "ws://[31b:6f20:c7f2:3ddf::3221]",
       "ws://nostrajmjieip3dqgeefsgpydy3bbshe3o32z65dwkssl7qxkn5a.b32.i2p"
     ]
   }
