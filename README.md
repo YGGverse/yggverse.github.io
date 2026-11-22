@@ -23,6 +23,10 @@ Open-source solutions for alternative networks
 * `[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:4244`
 * `[505:6847:c778:61a1:5c6d:e802:d291:8191]:4244`
 
+### Banner Exchange Platform
+
+* `[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:7777`
+
 ### BitTorrent
 
 * `http://[202:68d0:f0d5:b88d:1d1a:555e:2f6b:3148]:6969` - βtracker
